@@ -1,2 +1,3 @@
 # algoHeaven
-Repository for all leetCode/hackerRank/algoExpert questions with solutions
+Repository for all my leetCode questions and solutions 
+https://leetcode.com/tochiDon/
